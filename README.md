@@ -1,4 +1,4 @@
-# University of Helsinki FSO
+# University of Helsinki - Full Stack Web Development
 
 ## [Full Stack Open 2023](https://fullstackopen.com/en/)
 
